@@ -9,6 +9,7 @@ alt="dust mite" width="100%" title="By Benjamin Combs via Unsplash">
 A curated list of amazingly awesome free (stock) photo resources for your projects. Inspired by all the other [awesome awesomeness](https://github.com/bayandin/awesome-awesomeness) out there.
 
 * [AllTheFreeStock](http://allthefreestock.com/) - CC0 images. Some of the video requires attribution
+* [cupcake.nilssonlee.se](http://cupcake.nilssonlee.se/) - CCO images
 * [fancycrave.com](http://fancycrave.com/) - royalty free high resolution images for your personal and commercial projects
 * [flickr.com](https://www.flickr.com/photos/internetarchivebookimages/) - internet archive book images, no known copyright restrictions
 * [foodiesfeed.com](http://foodiesfeed.com/) - food images, free of licences
@@ -17,6 +18,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [imcreator.com](http://imcreator.com/free) - requires attribution
 * [isorepublic.com](http://isorepublic.com/) - high-quality, free photos for creatives.
 * [jaymantri.com](http://jaymantri.com/) - entirely free of copyrights. 7 new photos every thursday.
+* [jeshoots.com](http://jeshoots.com/) - all images are CC0
 * [kaboompics.com](http://kaboompics.com/)
 * [lifeofpix.com](http://www.lifeofpix.com/) - images for personal & commercial use. all images are donated to the public domain
 * [littlevisuals.co](http://littlevisuals.co/) - entirely free of copyrights. updated almost daily.
@@ -42,6 +44,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [superfamous.com](http://superfamous.com/) - requires attribution
 * [titania-foto.com](http://www.titania-foto.com/) - german, no attribution required, only resale on other stock image websites forbidden
 * [travelcoffeebook.com](http://travelcoffeebook.com/) 10 beautiful travel photos every 10 days. - all images are CC0
+* [uhdwallpapers.org](http://www.uhdwallpapers.org/) - CC0 licensed
 * [unsplash.com](http://unsplash.com/) - free of licences
 * [wefunction.com](http://wefunction.com/category/free-photos/) - free of licences
 
